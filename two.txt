@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hai this is two.txt which is created through terminal --notepad
+=======
+
+>>>>>>> eed504d11ddcec2023c062f087a47152a272e5d5
